@@ -8,6 +8,7 @@ TagManager:
   - Up
   - RetryPoint
   - MoveRight
+  - Miss
   layers:
   - Default
   - TransparentFX

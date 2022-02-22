@@ -5,7 +5,7 @@ using UnityEngine;
 public class MovingFloor2 : MonoBehaviour
 {
     [SerializeField]private int counter = 0;
-    float move = 0.01f;
+    float move = 0.02f;
  
     void Update()
     {
