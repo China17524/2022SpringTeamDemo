@@ -37,5 +37,4 @@ public class RandomSet : MonoBehaviour
         cloud2.transform.parent = this.transform;
         cloud3.transform.parent = this.transform;
     }
-
 }
